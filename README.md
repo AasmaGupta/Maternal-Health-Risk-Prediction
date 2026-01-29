@@ -2,11 +2,11 @@
 
 This repository contains the code and supporting files for a hybrid machine learning–based system to predict maternal health risk levels using real-world clinical and demographic datasets. The project combines traditional clinical threshold rules with machine learning models to classify pregnancy risk levels into low, mid, and high categories, and applies explainability techniques to support transparent decision-making.
 
-🔗 **Project Demo / Paper:** (link here if available)
+
 
 ---
 
-## 🚀 Overview
+## Overview
 
 Maternal health risk prediction using data-driven methods can assist healthcare providers in early identification of high-risk pregnancies. This project integrates:
 
@@ -19,7 +19,7 @@ The end goal is a reliable, interpretable risk prediction framework backed by a 
 
 ---
 
-## 📁 Repository Contents
+## Repository Contents
 
 | Folder / File | Description |
 |---------------|-------------|
@@ -32,7 +32,7 @@ The end goal is a reliable, interpretable risk prediction framework backed by a 
 
 ---
 
-## 🧠 Tech Stack
+## Tech Stack
 
 - **Languages:** Python  
 - **Libraries:** scikit-learn, XGBoost, Pandas, NumPy, SHAP, Matplotlib, Seaborn  
@@ -40,7 +40,7 @@ The end goal is a reliable, interpretable risk prediction framework backed by a 
 
 ---
 
-## 📊 Features Used
+## Features Used
 
 - Clinical indicators such as blood pressure, BMI, heart rate, etc.
 - Socio-demographic features from NFHS and global maternal datasets
@@ -48,7 +48,7 @@ The end goal is a reliable, interpretable risk prediction framework backed by a 
 
 ---
 
-## ▶️ Machine Learning Models
+## Machine Learning Models
 
 Models implemented include:
 
@@ -60,7 +60,7 @@ Models implemented include:
 
 ---
 
-## 🧪 Explainability
+## Explainability
 
 To interpret model predictions and derive actionable insights:
 
@@ -69,11 +69,3 @@ To interpret model predictions and derive actionable insights:
 - Statistical feature selection techniques
 
 ---
-
-## 📈 Getting Started
-
-### 1. Clone the repository
-
-```bash
-git clone https://github.com/AasmaGupta/Maternal-Health-Risk-Prediction.git
-cd Maternal-Health-Risk-Prediction
